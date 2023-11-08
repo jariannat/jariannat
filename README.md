@@ -9,3 +9,13 @@ Soy una desarrolladora front-end apasionada por crear experiencias de usuario ex
 # 💻 Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,firebase,jest,firebase,ts,tailwind,figma,ai)](https://skillicons.dev)
+
+# 📬 Contact:
+
+**¡Me encantaría estar en contacto contigo!** Puedes encontrarme en las siguientes plataformas:
+
+- **LinkedIn:** [www.linkedin.com/in/jarianna-pacheco-321921285](https://www.linkedin.com/in/jarianna-pacheco-321921285)
+- **GitHub:** [github.com/jariannat](https://github.com/jariannat)
+- **Correo Electrónico:** [jaripache01@gmail.com](mailto:jaripache01@gmail.com)
+
+¡Espero conectarme contigo pronto!
