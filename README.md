@@ -8,4 +8,4 @@ Soy una desarrolladora front-end apasionada por crear experiencias de usuario ex
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,firebase,jest,firebase,angular,ts,tailwind,figma,sass,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,firebase,jest,firebase,ts,tailwind,figma,ai)](https://skillicons.dev)
