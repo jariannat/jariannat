@@ -9,4 +9,6 @@ Soy una desarrolladora front-end apasionada por crear experiencias de usuario ex
 <div align="left">  
   <h3> 🖳 Tech Stack </h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5"  alt="HTML5"  width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"   title="js"  alt="js"  width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css" alt="css"  width="40" height="40"/>&nbsp;
 </div>
